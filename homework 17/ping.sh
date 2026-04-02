@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TARGET="pornhub.com"
+TARGET="gachimuchi.com"
 FAIL_COUNT=0
 
 echo "Всё стабильно"
